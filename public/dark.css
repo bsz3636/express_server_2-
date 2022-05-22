@@ -1,14 +1,11 @@
 body {
-  background-color: #dcdde1;
-  color: #353b48;
+  background-color: #353b48;
+  color: #dcdde1;
   font-size: 18px;
   padding: 50px 100px;
 }
 h1 {
-  font-size: 40px;
-  font-weight: lighter;
-  font-style: italic;
-  text-align: left;
+  display: none;
 }
 h2 {
   margin: 40px 0;
@@ -20,6 +17,7 @@ nav {
 }
 a {
   margin-right: 10px;
+  color: #dcdde1;
 }
 img {
   position: absolute;
