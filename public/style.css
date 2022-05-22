@@ -1,7 +1,8 @@
 body {
   background-color: #dcdde1;
   color: #353b48;
-  font-size: 18px;
+  font-size: 22px;
+  line-height: 30px;
   padding: 50px 100px;
 }
 h1 {
